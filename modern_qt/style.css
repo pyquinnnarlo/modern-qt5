@@ -1,0 +1,18 @@
+/* styles.css */
+
+QPushButton {
+    color: white;
+    background: #F5A52433;
+    border-radius: 30px;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+
+}
+
+QPushButton:pressed {
+    background-color: aqua;
+    box-shadow: 2px 2px 2px #4d9efa;
+    
+}
